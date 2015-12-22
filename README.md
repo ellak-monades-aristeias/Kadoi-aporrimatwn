@@ -17,3 +17,23 @@ To καπάκι του κάδου, ανοίγει σε τρεις διαδοχι
 Ο σχεδιασμός του κάδου, ακολουθεί μοντέρνες καμπύλες  χαράξεις και γραμμές (τις οποίες συναντάμε κατά κόρον στη φύση), προκειμένου να γίνεται πιο εύκολη η προσαρμογή τους στο αστικό τοπίο. Εγκιβωτίζεται παράλληλα σε μικρό χώρο (πιθανόν με κάγκελα στις τρείς από τις τέσσερις πλεύρες του), ώστε να μην υπάρχει άμεση επαφή με τους κατοίκους της περιοχής, παρά μόνο με τους χρήστες.
 
 Χρησιμοποιείται πλαστικό περίβλημα, προκειμένου να είναι ελαφριά σαν κατασκευή και εύκολα μετακινήσιμη. Τα επιμέρους μεταλλικά στοιχεία και οι ρόδες κατασκευάζονται σε διάφορες Ελληνικές εταιρείες (Viocado κ.τ.λ.) και μπορεί να γίνει μαζική παραγωγή, με αρκετά χαμηλό κόστος. 
+
+THE “SMART” GARBAGE BIN
+
+The basic idea is related to the hygiene of public spaces. Mostly within the areas and public spaces where –usually- garbage bins are placed. The proposal concerns a smart garbage bin, which can assist hygiene in public spaces, through systems that will bring.
+Briefly these systems are:
+1) To reduce odors from garbage
+2) Notify when the bin is full
+3) Easy to operate and deposition
+4) Modern design
+5) Photovoltaic systems that produce small amount of power, so as to be energy efficient
+6) Separate marking so that it can be replaced or repaired immediately
+7) Auto-cleaning (proposal)
+
+The bin’s conic shape helps emptying by tipping over in the garbage truck. It features special reinforced mounts on the lateral sides, as well as safety handles for safe and easy movement. There is also a drain plug for the outflow of liquid during washing.
+
+Each bin has exclusive figure numbering, so as to be readily identifiable from the workshops of the municipality. The number is placed on the front of the bin, so that it is easily readable and discernible. Bins cap, opens in three phases, in order to limit waste odors during opening by the user.
+
+The cap is designed so as to reduce the waste odors. The cap is encased in a box in order to reduce the diffusion of odors in all directions.
+
+On the surface of bin’s cap, photovoltaic membranes are developed activating photocell which controls the content of the bin. Once passed the permitted height automatically changes the color of the green led light into red, so that users know that they cannot use this bin for their garbage anymore. A small photocell will scan the height of the garbage (the entire length and width of that point), and will automatically activate the red lamp.
