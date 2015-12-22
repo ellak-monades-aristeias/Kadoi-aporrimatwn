@@ -18,7 +18,7 @@ To καπάκι του κάδου, ανοίγει σε τρεις διαδοχι
 
 Χρησιμοποιείται πλαστικό περίβλημα, προκειμένου να είναι ελαφριά σαν κατασκευή και εύκολα μετακινήσιμη. Τα επιμέρους μεταλλικά στοιχεία και οι ρόδες κατασκευάζονται σε διάφορες Ελληνικές εταιρείες (Viocado κ.τ.λ.) και μπορεί να γίνει μαζική παραγωγή, με αρκετά χαμηλό κόστος. 
 
-<THE “SMART” GARBAGE BIN>
+<<THE “SMART” GARBAGE BIN>>
 
 The basic idea is related to the hygiene of public spaces. Mostly within the areas and public spaces where –usually- garbage bins are placed. The proposal concerns a smart garbage bin, which can assist hygiene in public spaces, through systems that will bring.
 Briefly these systems are:
